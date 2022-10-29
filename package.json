@@ -1,16 +1,16 @@
 {
-"name": "mcm666",
-"theme": "mcm666",
-"version": "1.4.10",
-"description": "mcm666 ทางเข้าหลักเว็บแทงบอลเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
-"keywords": [
-"mcm666",
-"mcm666 เครดิตฟรี",
-"mcm666 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/mcm666",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "mcm666",
+  "theme": "mcm666",
+  "version": "1.5.0",
+  "description": "mcm666 ทางเข้าหลักเว็บแทงบอลเว็บตรง คนเล่นเยอะ แจกเครดิตฟรี",
+  "keywords": [
+    "mcm666",
+    "mcm666 เครดิตฟรี",
+    "mcm666 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/mcm666",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
